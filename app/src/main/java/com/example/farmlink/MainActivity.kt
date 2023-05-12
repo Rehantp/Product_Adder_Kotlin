@@ -1,11 +1,10 @@
 package com.example.farmlink
-
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.farmlink.databinding.ActivityMainBinding
 
 
-//MainActivity tested
+//MainActivity tested II
 class MainActivity : AppCompatActivity() {
     private lateinit var binding:ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -22,4 +21,3 @@ class MainActivity : AppCompatActivity() {
         fragmentTransaction.replace(R.id.frameLa,fragment).commit()
     }
 }
-//MainActivity tested
