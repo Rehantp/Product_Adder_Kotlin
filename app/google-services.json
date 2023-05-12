@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404006600063",
+    "firebase_url": "https://farmlink-bcfca-default-rtdb.firebaseio.com",
+    "project_id": "farmlink-bcfca",
+    "storage_bucket": "farmlink-bcfca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404006600063:android:c02199d9a2a93774bb6e4a",
+        "android_client_info": {
+          "package_name": "com.example.farmlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404006600063-jksh5g2ta4oq3snjjbqbb1b5crfi32nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLrjruUBtkH_l6mIwb3z03kGEKE0V26w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404006600063-jksh5g2ta4oq3snjjbqbb1b5crfi32nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
