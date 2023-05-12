@@ -1,5 +1,4 @@
 package com.example.farmlink
-
 import android.graphics.BitmapFactory
 import android.view.LayoutInflater
 import android.view.View
@@ -36,7 +35,7 @@ class itmAdapter(private val itmlst:ArrayList<itemDs>):RecyclerView.Adapter<itmA
 
     }
 
-
+  //error handle
     @Throws(IllegalArgumentException::class)
     private fun validateItemName(itmname: String?): Boolean {
         if (itmname.isNullOrEmpty()) {
